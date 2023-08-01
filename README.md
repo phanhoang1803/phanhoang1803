@@ -1,7 +1,7 @@
 # HoangPhan
-My personal repository.
+
 <p align="center">
-  <img src="https://media.giphy.com/media/wKQRIoFXsQIGA/giphy.gif" height="200"/>
+  <img src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif" height="200"/>
 </p>
 <br>
 
@@ -15,15 +15,14 @@ My personal repository.
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Viet-brightgreen" />
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist </h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Hoang Phan </h1>
+<h3 align="center">Deep Learning Engineer | AI Engineer </h3>
 <p align="center">
-<a href="https://www.hackerrank.com/OvinduWijethunge" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ovinduwijethunge/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="https://www.kaggle.com/ovinduwijethunge" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ovindu_vesuvius/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/hoang-phan-van-50265325a/" target="blank"><img align="center" src="https://scontent.fsgn5-14.fna.fbcdn.net/v/t39.30808-6/277519684_10158675188522823_7436488509713286219_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=BNRjGKnOs3sAX9Bvyd8&_nc_ht=scontent.fsgn5-14.fna&oh=00_AfD71Yb2BHrYCq3Uw19VAl2jOewi8s-hGneBEQ4G5-PwOg&oe=64CD2BEB" alt="HoangPhanLinkedin" height="30" width="40" /></a> 
+<a href="https://www.instagram.com/partsunset/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="HoangPhanInsta" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ovindu.wijethunge.7/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
- <a href = "mailto: oumw.udesh@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+<a href = "mailto: oumw.udesh@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
 
