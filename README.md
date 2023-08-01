@@ -1,5 +1,3 @@
-# HoangPhan
-
 <p align="center">
   <img src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif" height="200"/>
 </p>
