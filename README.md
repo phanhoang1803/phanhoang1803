@@ -5,33 +5,23 @@
 </p>
 <br>
 
-[maybe]
-
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=phanhoang1803&color=brightgreen" alt="watching_count" />
- </p>
- <p align="center">
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Age-20-blue" />
   <img src="https://img.shields.io/badge/Focus-Deep%20Learning-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Ho%20Chi%20Minh%20City-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Viet-brightgreen" />
 </p>
+
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Hoang Phan </h1>
 <h3 align="center">Deep Learning Engineer | AI Engineer </h3>
 
-<br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-<p align="center">
-  <em>
-    Hello, I am Hoang Phan a <b>third year</b> undergraduate from <a href="https://www.hcmus.edu.vn/"> <b>University Of Science/b>, VNU</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-</p>
+
+- 📝 I'm Hoang Phan a <b>third year</b> undergraduate from <a href="https://www.hcmus.edu.vn/"> <b>University Of Science, VNU
 
 - 🔭 I’m currently working on **NLP and Langchain**
 
