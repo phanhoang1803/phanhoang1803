@@ -16,7 +16,7 @@
 
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Hoang Phan </h1>
-<h3 align="center">Deep Learning Engineer | AI Engineer </h3>
+<h3 align="center"> Desire to work in the field of DL, ML, AI </h3>
 
 
 - 📝 I'm Hoang Phan a <b>third year</b> undergraduate from <a href="https://www.hcmus.edu.vn/"> <b>University Of Science, VNU
