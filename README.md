@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Age-20-blue" />
+<img src="https://img.shields.io/badge/Age-22-blue" />
   <img src="https://img.shields.io/badge/Focus-AI-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Ho%20Chi%20Minh%20City-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Vietnamese-brightgreen" />
